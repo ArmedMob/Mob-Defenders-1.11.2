@@ -1,0 +1,16 @@
+[
+{
+  "modid": "md",
+  "name": "Mob Defenders",
+  "description": "Basic World Ore Gen with nuggets, ingots, blocks. Nether Ore Gen for vanilla ores plus MD added Ores!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Armed Mob"],
+  "credits": "ShadowFacts, G33Z3R_HD, Red Dragons Guild, Neale Gaming",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
