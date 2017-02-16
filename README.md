@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Mob Defenders for Forge 1.11.2
 
 You can use the [editor on GitHub](https://github.com/ArmedMob/Mob-Defenders-1.11.2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
